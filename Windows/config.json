@@ -1,17 +1,17 @@
 {
     "api": {
         "id": null,
-        "worker-id": "Home"
+        "worker-id": null
     },
     "http": {
-        "enabled": true,
+        "enabled": false,
         "host": "127.0.0.1",
-        "port": 54154,
+        "port": 0,
         "access-token": null,
         "restricted": true
     },
     "autosave": true,
-    "background": false,
+    "background": true,
     "colors": true,
     "title": true,
     "randomx": {
@@ -126,7 +126,7 @@
             "url": "sg.minexmr.com:443",
             "user": "48cFqwEMSa3JEfhybXyiU25KNpkQL8rpiWnq119Ex34KZ3tbVtgj6MndV4m7CREiLzhCyKFG1YXRfdPMABJ5kjgEJf328h3",
             "pass": null,
-            "rig-id": "Home",
+            "rig-id": null,
             "nicehash": false,
             "keepalive": true,
             "enabled": true,
